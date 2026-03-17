@@ -52,6 +52,7 @@ project-folder/
 
 ```
 
-Author
-Sepehr Mansouri
-Tanishq Rawat
+## Authors
+
+- Sepehr Mansouri  
+- Tanishq Rawat
